@@ -1,5 +1,5 @@
 ## Casino Web3
-
+![Screenshot of Casino Web3](/landing.png)
 ## Inspiration
 My inspiration for creating the Casino in Web3 project came from the desire to leverage blockchain technology to revolutionize the online gambling industry. I wanted to provide users with a transparent, secure, and immersive gaming experience that harnesses the benefits of decentralized technology.
 
